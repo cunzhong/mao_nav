@@ -8,10 +8,38 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752587340529",
-          "name": "rin",
+          "name": "Rin",
           "url": "https://rin.088878.xyz",
           "description": "",
           "icon": "https://rin.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1752587677714",
+          "name": "CFBLOG",
+          "url": "https://cf.088878.xyz",
+          "description": "",
+          "icon": "https://cf.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1752587719222",
+          "name": "Mail",
+          "url": "https://mail.088878.xyz",
+          "description": "",
+          "icon": "https://mail.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1752587738362",
+          "name": "LTV",
+          "url": "https://ltv.088878.xyz",
+          "description": "",
+          "icon": "https://ltv.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1752587758586",
+          "name": "MTV",
+          "url": "https://mtv.088878.xyz",
+          "description": "",
+          "icon": "https://mtv.088878.xyz/favicon.ico"
         }
       ]
     },
