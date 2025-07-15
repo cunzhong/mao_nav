@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://mtv.088878.xyz",
           "description": "",
           "icon": "https://mtv.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1752588214538",
+          "name": "猫咪导航",
+          "url": "https://66.088878.xyz",
+          "description": "",
+          "icon": "https://66.088878.xyz/favicon.ico"
         }
       ]
     },
