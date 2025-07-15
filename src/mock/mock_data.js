@@ -5,7 +5,15 @@ export const mockData = {
       "icon": "🔍",
       "name": "088878",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1752587340529",
+          "name": "rin",
+          "url": "https://rin.088878.xyz",
+          "description": "",
+          "icon": "https://rin.088878.xyz/favicon.ico"
+        }
+      ]
     },
     {
       "id": "my-favorites",
