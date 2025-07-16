@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "https://github.com/favicon.ico"
+        },
+        {
+          "id": "site-1752625937950",
+          "name": "cloudflare",
+          "url": "https://www.cloudflare.com/",
+          "description": "",
+          "icon": "https://www.cloudflare.com/favicon.ico"
         }
       ]
     },
@@ -98,6 +105,13 @@ export const mockData = {
           "url": "https://cloud.tencent.com",
           "description": "腾讯云计算服务",
           "icon": "https://cloud.tencent.com/favicon.ico"
+        },
+        {
+          "id": "site-1752626231105",
+          "name": "腾讯云国际站",
+          "url": "https://tencentcloud.com",
+          "description": "",
+          "icon": "https://tencentcloud.com/favicon.ico"
         }
       ]
     },
@@ -113,6 +127,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "https://github.com/favicon.ico"
+        },
+        {
+          "id": "site-1752626848489",
+          "name": "Mail send工具",
+          "url": "https://resend.com",
+          "description": "",
+          "icon": "https://resend.com/favicon.ico"
         }
       ]
     },
@@ -135,6 +156,20 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "https://www.52pojie.cn/favicon.ico"
+        },
+        {
+          "id": "site-1752626010452",
+          "name": "奶昔",
+          "url": "https://naixi.net",
+          "description": "",
+          "icon": "https://naixi.net/favicon.ico"
+        },
+        {
+          "id": "site-1752626049784",
+          "name": "免费吧",
+          "url": "https://free8.net",
+          "description": "",
+          "icon": "https://free8.net/favicon.ico"
         }
       ]
     },
@@ -179,6 +214,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "https://www.coursera.org/favicon.ico"
+        },
+        {
+          "id": "site-1752626469215",
+          "name": "我的PT",
+          "url": "https://cc.mypt.cc",
+          "description": "",
+          "icon": "https://cc.mypt.cc/favicon.ico"
         }
       ]
     },
@@ -223,6 +265,114 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "https://www.youtube.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1752626083347",
+      "icon": "⚙️",
+      "name": "域名管理",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1752626127461",
+          "name": "edu",
+          "url": "https://regdm.edu.deal",
+          "description": "",
+          "icon": "https://regdm.edu.deal/favicon.ico"
+        },
+        {
+          "id": "site-1752626162797",
+          "name": "Spaceship",
+          "url": "https://spacrship.com",
+          "description": "",
+          "icon": "https://spacrship.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1752626294047",
+      "icon": "🔍",
+      "name": "接码&地址",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1752626339915",
+          "name": "免费接码",
+          "url": "https://receive-sms-free.cc",
+          "description": "",
+          "icon": "https://receive-sms-free.cc/favicon.ico"
+        },
+        {
+          "id": "site-1752626376760",
+          "name": "美国地址",
+          "url": "https://meiguodizhi.com",
+          "description": "",
+          "icon": "https://meiguodizhi.com/favicon.ico"
+        },
+        {
+          "id": "site-1752626417167",
+          "name": "指定地址",
+          "url": "https://121415.xyz",
+          "description": "",
+          "icon": "https://121415.xyz/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1752626541519",
+      "icon": "💼",
+      "name": "优秀博客",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1752626578714",
+          "name": "二叉树树",
+          "url": "https://afo.im",
+          "description": "",
+          "icon": "https://afo.im/favicon.ico"
+        },
+        {
+          "id": "site-1752626606413",
+          "name": "CF-Plus",
+          "url": "https://blog.661212.xyz",
+          "description": "",
+          "icon": "https://blog.661212.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1752626643835",
+          "name": "周润发博客",
+          "url": "https://blog.zrf.me",
+          "description": "",
+          "icon": "https://blog.zrf.me/favicon.ico"
+        },
+        {
+          "id": "site-1752626673279",
+          "name": "零度博客",
+          "url": "https://freedidi.com",
+          "description": "",
+          "icon": "https://freedidi.com/favicon.ico"
+        },
+        {
+          "id": "site-1752626716603",
+          "name": "反代合集",
+          "url": "https://voxsay.com",
+          "description": "",
+          "icon": "https://voxsay.com/favicon.ico"
+        },
+        {
+          "id": "site-1752626753254",
+          "name": "CF项目合集",
+          "url": "https://cloudflare.chuhai.tools",
+          "description": "",
+          "icon": "https://cloudflare.chuhai.tools/favicon.ico"
+        },
+        {
+          "id": "site-1752626785993",
+          "name": "域名托管系列",
+          "url": "https://blog.nbvil.com",
+          "description": "",
+          "icon": "https://blog.nbvil.com/favicon.ico"
         }
       ]
     }
