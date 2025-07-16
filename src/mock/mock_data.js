@@ -8,9 +8,9 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752587340529",
-          "name": "Rin",
+          "name": "Rin 主博客",
           "url": "https://rin.088878.xyz",
-          "description": "admin 账号",
+          "description": "主博客 admin 账号",
           "icon": "https://rin.088878.xyz/favicon.ico"
         },
         {
@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://66.088878.xyz",
           "description": "",
           "icon": "https://66.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1752647941673",
+          "name": "CFBLOG",
+          "url": "https://ff.088878.xyz",
+          "description": "未加速站点",
+          "icon": "https://ff.088878.xyz/favicon.ico"
         }
       ]
     },
