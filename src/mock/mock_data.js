@@ -73,21 +73,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "ai-tools",
-      "name": "AI智能",
-      "icon": "🤖",
-      "order": 2,
-      "sites": [
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "https://cursor.sh/favicon.ico"
-        }
-      ]
-    },
-    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
@@ -209,6 +194,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "https://tinypng.com/favicon.ico"
+        },
+        {
+          "id": "site-1752625763487",
+          "name": "IT dog",
+          "url": "https://www.itdog.cn/",
+          "description": "",
+          "icon": "https://www.itdog.cn/favicon.ico"
         }
       ]
     },
@@ -231,21 +223,6 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "https://www.youtube.com/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 11,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "https://www.notion.so/favicon.ico"
         }
       ]
     }
