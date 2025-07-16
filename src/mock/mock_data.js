@@ -10,35 +10,35 @@ export const mockData = {
           "id": "site-1752587340529",
           "name": "Rin",
           "url": "https://rin.088878.xyz",
-          "description": "",
+          "description": "admin 账号",
           "icon": "https://rin.088878.xyz/favicon.ico"
         },
         {
           "id": "site-1752587677714",
           "name": "CFBLOG",
           "url": "https://cf.088878.xyz",
-          "description": "",
+          "description": "备用站点",
           "icon": "https://cf.088878.xyz/favicon.ico"
         },
         {
           "id": "site-1752587719222",
           "name": "Mail",
           "url": "https://mail.088878.xyz",
-          "description": "",
+          "description": "Moemail 可发送邮件",
           "icon": "https://mail.088878.xyz/favicon.ico"
         },
         {
           "id": "site-1752587738362",
           "name": "LTV",
           "url": "https://ltv.088878.xyz",
-          "description": "",
+          "description": "Libre TV",
           "icon": "https://ltv.088878.xyz/favicon.ico"
         },
         {
           "id": "site-1752587758586",
           "name": "MTV",
           "url": "https://mtv.088878.xyz",
-          "description": "",
+          "description": "Moon TV",
           "icon": "https://mtv.088878.xyz/favicon.ico"
         },
         {
@@ -110,7 +110,7 @@ export const mockData = {
           "id": "site-1752626231105",
           "name": "腾讯云国际站",
           "url": "https://tencentcloud.com",
-          "description": "",
+          "description": "谷歌账号登陆",
           "icon": "https://tencentcloud.com/favicon.ico"
         }
       ]
@@ -132,7 +132,7 @@ export const mockData = {
           "id": "site-1752626848489",
           "name": "Mail send工具",
           "url": "https://resend.com",
-          "description": "",
+          "description": "Mail 发送工具088878",
           "icon": "https://resend.com/favicon.ico"
         }
       ]
@@ -161,14 +161,14 @@ export const mockData = {
           "id": "site-1752626010452",
           "name": "奶昔",
           "url": "https://naixi.net",
-          "description": "",
+          "description": "小论坛",
           "icon": "https://naixi.net/favicon.ico"
         },
         {
           "id": "site-1752626049784",
           "name": "免费吧",
           "url": "https://free8.net",
-          "description": "",
+          "description": "无法搜索",
           "icon": "https://free8.net/favicon.ico"
         }
       ]
@@ -181,9 +181,9 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752625610372",
-          "name": "B2 存储桶-图床",
+          "name": "B2 存储桶",
           "url": "https://backclaze.com",
-          "description": "",
+          "description": "图床容器",
           "icon": "https://backclaze.com/favicon.ico"
         },
         {
@@ -219,7 +219,7 @@ export const mockData = {
           "id": "site-1752626469215",
           "name": "我的PT",
           "url": "https://cc.mypt.cc",
-          "description": "",
+          "description": "资源合集",
           "icon": "https://cc.mypt.cc/favicon.ico"
         }
       ]
@@ -241,7 +241,7 @@ export const mockData = {
           "id": "site-1752625763487",
           "name": "IT dog",
           "url": "https://www.itdog.cn/",
-          "description": "",
+          "description": "网站Ping工具",
           "icon": "https://www.itdog.cn/favicon.ico"
         }
       ]
@@ -278,14 +278,14 @@ export const mockData = {
           "id": "site-1752626127461",
           "name": "edu",
           "url": "https://regdm.edu.deal",
-          "description": "",
+          "description": "个人edu域名",
           "icon": "https://regdm.edu.deal/favicon.ico"
         },
         {
           "id": "site-1752626162797",
           "name": "Spaceship",
           "url": "https://spacrship.com",
-          "description": "",
+          "description": "主域名平台",
           "icon": "https://spacrship.com/favicon.ico"
         }
       ]
@@ -300,21 +300,21 @@ export const mockData = {
           "id": "site-1752626339915",
           "name": "免费接码",
           "url": "https://receive-sms-free.cc",
-          "description": "",
+          "description": "高效工具",
           "icon": "https://receive-sms-free.cc/favicon.ico"
         },
         {
           "id": "site-1752626376760",
           "name": "美国地址",
           "url": "https://meiguodizhi.com",
-          "description": "",
+          "description": "美国地址生成器",
           "icon": "https://meiguodizhi.com/favicon.ico"
         },
         {
           "id": "site-1752626417167",
           "name": "指定地址",
           "url": "https://121415.xyz",
-          "description": "",
+          "description": "可根据个人需求生成地址信息",
           "icon": "https://121415.xyz/favicon.ico"
         }
       ]
@@ -329,49 +329,49 @@ export const mockData = {
           "id": "site-1752626578714",
           "name": "二叉树树",
           "url": "https://afo.im",
-          "description": "",
+          "description": "EO详细教程",
           "icon": "https://afo.im/favicon.ico"
         },
         {
           "id": "site-1752626606413",
           "name": "CF-Plus",
           "url": "https://blog.661212.xyz",
-          "description": "",
+          "description": "搭建CF-plus教程",
           "icon": "https://blog.661212.xyz/favicon.ico"
         },
         {
           "id": "site-1752626643835",
           "name": "周润发博客",
           "url": "https://blog.zrf.me",
-          "description": "",
+          "description": "搭建加速等工具",
           "icon": "https://blog.zrf.me/favicon.ico"
         },
         {
           "id": "site-1752626673279",
           "name": "零度博客",
           "url": "https://freedidi.com",
-          "description": "",
+          "description": "海外博主",
           "icon": "https://freedidi.com/favicon.ico"
         },
         {
           "id": "site-1752626716603",
           "name": "反代合集",
           "url": "https://voxsay.com",
-          "description": "",
+          "description": "顾名思义",
           "icon": "https://voxsay.com/favicon.ico"
         },
         {
           "id": "site-1752626753254",
           "name": "CF项目合集",
           "url": "https://cloudflare.chuhai.tools",
-          "description": "",
+          "description": "cloudflare项目合集",
           "icon": "https://cloudflare.chuhai.tools/favicon.ico"
         },
         {
           "id": "site-1752626785993",
           "name": "域名托管系列",
           "url": "https://blog.nbvil.com",
-          "description": "",
+          "description": "域名详细托管教程，国内下架",
           "icon": "https://blog.nbvil.com/favicon.ico"
         }
       ]
