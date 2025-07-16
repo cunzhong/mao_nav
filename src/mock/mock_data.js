@@ -355,9 +355,9 @@ export const mockData = {
         {
           "id": "site-1752626162797",
           "name": "Spaceship",
-          "url": "https://spacrship.com",
+          "url": "https://spaceship.com",
           "description": "主域名平台",
-          "icon": "https://spacrship.com/favicon.ico"
+          "icon": "https://spaceship.com/favicon.ico"
         }
       ]
     },
