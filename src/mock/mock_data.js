@@ -97,6 +97,13 @@ export const mockData = {
           "url": "https://cloud.tencent.com/",
           "description": "腾讯云计算服务",
           "icon": "https://cloud.tencent.com/favicon.ico"
+        },
+        {
+          "id": "site-1753164255813",
+          "name": "德国网盘",
+          "url": "https://app.filen.io/#/drive/2364a283-795e-433f-9149-dd82884da46c",
+          "description": "不限速10G",
+          "icon": "https://app.filen.io/favicon.ico"
         }
       ]
     },
