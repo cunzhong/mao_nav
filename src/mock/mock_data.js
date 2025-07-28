@@ -14,11 +14,18 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "id": "site-1753711878324",
+          "name": "腾讯国际站",
+          "url": "https://tencentcloud.com/",
+          "description": "三个eo免费版",
+          "icon": "/sitelogo/tencentcloud.com.ico"
+        },
+        {
+          "id": "site-1753711924496",
+          "name": "腾讯云",
+          "url": "https://cloud.tencent.com/",
+          "description": "国内站点",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "github",
@@ -26,6 +33,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753711962766",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com/",
+          "description": "全国CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
         }
       ]
     },
@@ -231,13 +245,6 @@ export const mockData = {
       "sites": []
     },
     {
-      "id": "finance",
-      "name": "财经投资",
-      "icon": "💰",
-      "order": 7,
-      "sites": []
-    },
-    {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
@@ -266,18 +273,18 @@ export const mockData = {
           "icon": "/sitelogo/www.itdog.cn.ico"
         },
         {
-          "id": "site-1753680198326",
-          "name": "eo优选节点",
-          "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
-          "description": "自动获取最新优选节点",
-          "icon": "/sitelogo/www.wetest.vip.ico"
-        },
-        {
           "id": "tinypng",
           "name": "TinyPNG",
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1753680198326",
+          "name": "eo优选节点",
+          "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
+          "description": "自动获取最新优选节点",
+          "icon": "/sitelogo/www.wetest.vip.ico"
         }
       ]
     },
@@ -304,13 +311,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 11,
-      "sites": []
-    },
-    {
       "id": "category-1753679344910",
       "icon": "🔍",
       "name": "未分类",
@@ -331,24 +331,17 @@ export const mockData = {
       "order": 13,
       "sites": [
         {
+          "id": "site-1753680385519",
+          "name": "反代合集",
+          "url": "https://voxsay.com",
+          "description": "反代理",
+          "icon": "/sitelogo/voxsay.com.ico"
+        },
+        {
           "id": "site-1753680257539",
           "name": "二叉树树",
           "url": "https://afo.im",
-          "description": "eo相关教程",
-          "icon": "/sitelogo/afo.im.ico"
-        },
-        {
-          "id": "site-1753680293682",
-          "name": "CF-plus",
-          "url": "https://blog.661212.xyz",
-          "description": "搭建CF-Plus完全教程"
-        },
-        {
-          "id": "site-1753680323903",
-          "name": "周润发博客",
-          "url": "https://blog.zrf.me",
-          "description": "搭建加速等工具",
-          "icon": "/sitelogo/blog.zrf.me.ico"
+          "description": "eo相关教程"
         },
         {
           "id": "site-1753680349338",
@@ -358,11 +351,17 @@ export const mockData = {
           "icon": "/sitelogo/freedidi.com.ico"
         },
         {
-          "id": "site-1753680385519",
-          "name": "反代合集",
-          "url": "https://voxsay.com",
-          "description": "反代理",
-          "icon": "/sitelogo/voxsay.com.ico"
+          "id": "site-1753680323903",
+          "name": "周润发博客",
+          "url": "https://blog.zrf.me",
+          "description": "搭建加速等工具",
+          "icon": "/sitelogo/blog.zrf.me.ico"
+        },
+        {
+          "id": "site-1753680293682",
+          "name": "CF-plus",
+          "url": "https://blog.661212.xyz",
+          "description": "搭建CF-Plus完全教程"
         }
       ]
     }
