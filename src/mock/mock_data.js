@@ -85,7 +85,7 @@ export const mockData = {
         {
           "id": "site-1753679793980",
           "name": "Mail",
-          "url": "https://email.088878.xyz",
+          "url": "https://mail.088878.xyz",
           "description": "Moemail 可收发邮件",
           "icon": "https://mail.088878.xyz/favicon.ico"
         }
