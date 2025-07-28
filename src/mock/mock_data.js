@@ -50,12 +50,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1753679679528",
-          "name": "博客-Rin",
-          "url": "https://rin.088878.xyz",
-          "description": "Admin账号-R2支持"
-        },
-        {
           "id": "site-1753679887006",
           "name": "LTV",
           "url": "https://ltv.088878.xyz",
@@ -88,6 +82,12 @@ export const mockData = {
           "url": "https://mail.088878.xyz",
           "description": "Moemail 可收发邮件",
           "icon": "https://mail.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679679528",
+          "name": "博客-Rin",
+          "url": "https://8.088878.xyz",
+          "description": "R2支持"
         }
       ]
     },
