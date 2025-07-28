@@ -44,10 +44,65 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1753679323304",
+      "icon": "🎮",
+      "name": "Nai 个人网址",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1753679793980",
+          "name": "Mail",
+          "url": "https://mail.088878.xyz",
+          "description": "Moemail 可收发邮件",
+          "icon": "https://mail.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679738123",
+          "name": "CF-Blog",
+          "url": "https://cf.088878.xyz",
+          "description": "EO加速站点，缓存issue",
+          "icon": "https://cf.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679679528",
+          "name": "博客-Rin",
+          "url": "https://rin.088878.xyz",
+          "description": "Admin账号-R2支持"
+        },
+        {
+          "id": "site-1753679887006",
+          "name": "LTV",
+          "url": "https://ltv.088878.xyz",
+          "description": "Libre TV"
+        },
+        {
+          "id": "site-1753679919407",
+          "name": "MTV",
+          "url": "https://mtv.088878.xyz",
+          "description": "Moon TV",
+          "icon": "https://mtv.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679959968",
+          "name": "66 Nav",
+          "url": "https://66.088878.xyz",
+          "description": "导航主页",
+          "icon": "https://66.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679993615",
+          "name": "CF Blog",
+          "url": "https://ff.088878.xyz",
+          "description": "未加速站点",
+          "icon": "https://ff.088878.xyz/favicon.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -90,7 +145,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -140,6 +195,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1753680093319",
+          "name": "腾讯云国际站",
+          "url": "https://tencentcloud.com",
+          "description": "国际站",
+          "icon": "/sitelogo/tencentcloud.com.ico"
         }
       ]
     },
@@ -147,7 +209,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -190,6 +252,13 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "site-1753680146382",
+          "name": "Mail send",
+          "url": "https://resend.com",
+          "description": "Mail发送工具，仅限878",
+          "icon": "/sitelogo/resend.com.ico"
         }
       ]
     },
@@ -197,7 +266,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "stackoverflow",
@@ -233,6 +302,20 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1753680038873",
+          "name": "奶昔",
+          "url": "https://naixi.net",
+          "description": "小论坛",
+          "icon": "/sitelogo/naixi.net.ico"
+        },
+        {
+          "id": "site-1753680059016",
+          "name": "免费吧",
+          "url": "https://free8.net",
+          "description": "无法搜索",
+          "icon": "/sitelogo/free8.net.ico"
         }
       ]
     },
@@ -240,7 +323,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 6,
       "sites": [
         {
           "id": "figma",
@@ -276,7 +359,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "binance",
@@ -340,7 +423,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -376,7 +459,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -412,6 +495,13 @@ export const mockData = {
           "url": "https://www.itdog.cn/",
           "description": "Ping工具",
           "icon": "/sitelogo/www.itdog.cn.ico"
+        },
+        {
+          "id": "site-1753680198326",
+          "name": "eo优选节点",
+          "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
+          "description": "自动获取最新优选节点",
+          "icon": "/sitelogo/www.wetest.vip.ico"
         }
       ]
     },
@@ -419,7 +509,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 10,
       "sites": [
         {
           "id": "bilibili",
@@ -455,7 +545,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
@@ -488,47 +578,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1753679323304",
-      "icon": "🎮",
-      "name": "Nai 个人网址",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1753679793980",
-          "name": "Mail",
-          "url": "https://mail.088878.xyz",
-          "description": "Moemail 可收发邮件",
-          "icon": "https://mail.088878.xyz/favicon.ico"
-        },
-        {
-          "id": "site-1753679738123",
-          "name": "CF-Blog",
-          "url": "https://cf.088878.xyz",
-          "description": "EO加速站点，缓存issue",
-          "icon": "https://cf.088878.xyz/favicon.ico"
-        },
-        {
-          "id": "site-1753679679528",
-          "name": "博客-Rin",
-          "url": "https://rin.088878.xyz",
-          "description": "Admin账号-R2支持"
-        },
-        {
-          "id": "site-1753679887006",
-          "name": "LTV",
-          "url": "https://ltv.088878.xyz",
-          "description": "Libre TV"
-        },
-        {
-          "id": "site-1753679919407",
-          "name": "MTV",
-          "url": "https://mtv.088878.xyz",
-          "description": "Moon TV",
-          "icon": "https://mtv.088878.xyz/favicon.ico"
-        }
-      ]
-    },
-    {
       "id": "category-1753679344910",
       "icon": "🔍",
       "name": "未分类",
@@ -539,6 +588,48 @@ export const mockData = {
           "name": "个人网盘",
           "url": "https://app.filen.io/#/drive/2364a283-795e-433f-9149-dd82884da46c",
           "description": "无限制网盘 50G"
+        }
+      ]
+    },
+    {
+      "id": "category-1753680232750",
+      "icon": "🌐",
+      "name": "优秀博客",
+      "order": 13,
+      "sites": [
+        {
+          "id": "site-1753680257539",
+          "name": "二叉树树",
+          "url": "https://afo.im",
+          "description": "eo相关教程",
+          "icon": "/sitelogo/afo.im.ico"
+        },
+        {
+          "id": "site-1753680293682",
+          "name": "CF-plus",
+          "url": "https://blog.661212.xyz",
+          "description": "搭建CF-Plus完全教程"
+        },
+        {
+          "id": "site-1753680323903",
+          "name": "周润发博客",
+          "url": "https://blog.zrf.me",
+          "description": "搭建加速等工具",
+          "icon": "/sitelogo/blog.zrf.me.ico"
+        },
+        {
+          "id": "site-1753680349338",
+          "name": "零度博客",
+          "url": "https://freedidi.com",
+          "description": "海外博主",
+          "icon": "/sitelogo/freedidi.com.ico"
+        },
+        {
+          "id": "site-1753680385519",
+          "name": "反代合集",
+          "url": "https://voxsay.com",
+          "description": "反代理",
+          "icon": "/sitelogo/voxsay.com.ico"
         }
       ]
     }
