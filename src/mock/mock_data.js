@@ -405,6 +405,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1753679413832",
+          "name": "IT dog",
+          "url": "https://www.itdog.cn/",
+          "description": "Ping工具",
+          "icon": "/sitelogo/www.itdog.cn.ico"
         }
       ]
     },
@@ -479,8 +486,62 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753679323304",
+      "icon": "🎮",
+      "name": "Nai 个人网址",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753679793980",
+          "name": "Mail",
+          "url": "https://mail.088878.xyz",
+          "description": "Moemail 可收发邮件",
+          "icon": "https://mail.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679738123",
+          "name": "CF-Blog",
+          "url": "https://cf.088878.xyz",
+          "description": "EO加速站点，缓存issue",
+          "icon": "https://cf.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679679528",
+          "name": "博客-Rin",
+          "url": "https://rin.088878.xyz",
+          "description": "Admin账号-R2支持"
+        },
+        {
+          "id": "site-1753679887006",
+          "name": "LTV",
+          "url": "https://ltv.088878.xyz",
+          "description": "Libre TV"
+        },
+        {
+          "id": "site-1753679919407",
+          "name": "MTV",
+          "url": "https://mtv.088878.xyz",
+          "description": "Moon TV",
+          "icon": "https://mtv.088878.xyz/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1753679344910",
+      "icon": "🔍",
+      "name": "未分类",
+      "order": 12,
+      "sites": [
+        {
+          "id": "site-1753679522946",
+          "name": "个人网盘",
+          "url": "https://app.filen.io/#/drive/2364a283-795e-433f-9149-dd82884da46c",
+          "description": "无限制网盘 50G"
+        }
+      ]
     }
   ],
-  "title": "66 Nav",
-  "_fileSha": "f95afdcfc26d9089341ba2b3cc7962d2567aad71"
+  "title": "66 Nav"
 }
