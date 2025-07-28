@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
@@ -33,13 +26,6 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
         }
       ]
     },
@@ -50,24 +36,17 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1753679887006",
-          "name": "LTV",
-          "url": "https://ltv.088878.xyz",
-          "description": "Libre TV"
-        },
-        {
-          "id": "site-1753679919407",
-          "name": "MTV",
-          "url": "https://mtv.088878.xyz",
-          "description": "Moon TV",
-          "icon": "https://mtv.088878.xyz/favicon.ico"
-        },
-        {
           "id": "site-1753679959968",
           "name": "66 Nav",
           "url": "https://66.088878.xyz",
           "description": "导航主页",
           "icon": "https://66.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679679528",
+          "name": "博客-Rin",
+          "url": "https://8.088878.xyz",
+          "description": "R2支持"
         },
         {
           "id": "site-1753679738123",
@@ -84,10 +63,17 @@ export const mockData = {
           "icon": "https://mail.088878.xyz/favicon.ico"
         },
         {
-          "id": "site-1753679679528",
-          "name": "博客-Rin",
-          "url": "https://8.088878.xyz",
-          "description": "R2支持"
+          "id": "site-1753679887006",
+          "name": "LTV",
+          "url": "https://ltv.088878.xyz",
+          "description": "Libre TV"
+        },
+        {
+          "id": "site-1753679919407",
+          "name": "MTV",
+          "url": "https://mtv.088878.xyz",
+          "description": "Moon TV",
+          "icon": "https://mtv.088878.xyz/favicon.ico"
         }
       ]
     },
@@ -103,27 +89,6 @@ export const mockData = {
           "url": "https://chat.openai.com",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
         },
         {
           "id": "cursor",
@@ -148,6 +113,20 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
+          "id": "tencent-cloud",
+          "name": "腾讯云",
+          "url": "https://cloud.tencent.com",
+          "description": "腾讯云计算服务",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1753680093319",
+          "name": "腾讯云国际站",
+          "url": "https://tencentcloud.com",
+          "description": "国际站",
+          "icon": "/sitelogo/tencentcloud.com.ico"
+        },
+        {
           "id": "vercel",
           "name": "Vercel",
           "url": "https://vercel.com",
@@ -169,13 +148,6 @@ export const mockData = {
           "icon": "/sitelogo/www.aliyun.com.ico"
         },
         {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
           "id": "huawei-cloud",
           "name": "华为云",
           "url": "https://www.huaweicloud.com",
@@ -188,13 +160,6 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
-        },
-        {
-          "id": "site-1753680093319",
-          "name": "腾讯云国际站",
-          "url": "https://tencentcloud.com",
-          "description": "国际站",
-          "icon": "/sitelogo/tencentcloud.com.ico"
         }
       ]
     },
@@ -212,39 +177,11 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
-        },
-        {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
-        },
-        {
           "id": "postman",
           "name": "Postman",
           "url": "https://www.postman.com",
           "description": "API测试工具",
           "icon": "/sitelogo/www.postman.com.ico"
-        },
-        {
-          "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "/sitelogo/developer.android.com.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
         },
         {
           "id": "site-1753680146382",
@@ -262,25 +199,11 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
           "id": "linuxdo",
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux与开源技术社区",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
         },
         {
           "id": "v2ex",
@@ -317,36 +240,7 @@ export const mockData = {
       "name": "设计工具",
       "icon": "🎨",
       "order": 6,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "finance",
@@ -395,20 +289,6 @@ export const mockData = {
           "url": "https://xueqiu.com",
           "description": "聪明的投资者都在这里",
           "icon": "/sitelogo/xueqiu.com.ico"
-        },
-        {
-          "id": "coinbase",
-          "name": "Coinbase",
-          "url": "https://www.coinbase.com",
-          "description": "美国合规加密货币交易平台",
-          "icon": "/sitelogo/www.coinbase.com.ico"
-        },
-        {
-          "id": "futu",
-          "name": "富途牛牛",
-          "url": "https://www.futunn.com",
-          "description": "港美股交易软件",
-          "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
     },
@@ -433,13 +313,6 @@ export const mockData = {
           "icon": "/sitelogo/www.w3schools.com.ico"
         },
         {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
           "id": "coursera",
           "name": "Coursera",
           "url": "https://www.coursera.org",
@@ -454,6 +327,20 @@ export const mockData = {
       "icon": "⚙️",
       "order": 9,
       "sites": [
+        {
+          "id": "site-1753679413832",
+          "name": "IT dog",
+          "url": "https://www.itdog.cn/",
+          "description": "Ping工具",
+          "icon": "/sitelogo/www.itdog.cn.ico"
+        },
+        {
+          "id": "site-1753680198326",
+          "name": "eo优选节点",
+          "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
+          "description": "自动获取最新优选节点",
+          "icon": "/sitelogo/www.wetest.vip.ico"
+        },
         {
           "id": "json-formatter",
           "name": "JSON Formatter",
@@ -481,20 +368,6 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
-        },
-        {
-          "id": "site-1753679413832",
-          "name": "IT dog",
-          "url": "https://www.itdog.cn/",
-          "description": "Ping工具",
-          "icon": "/sitelogo/www.itdog.cn.ico"
-        },
-        {
-          "id": "site-1753680198326",
-          "name": "eo优选节点",
-          "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
-          "description": "自动获取最新优选节点",
-          "icon": "/sitelogo/www.wetest.vip.ico"
         }
       ]
     },
@@ -553,20 +426,6 @@ export const mockData = {
           "url": "https://slack.com",
           "description": "团队协作工具",
           "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
     },
