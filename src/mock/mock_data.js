@@ -240,7 +240,28 @@ export const mockData = {
       "name": "设计工具",
       "icon": "🎨",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753711420807",
+          "name": "地址生成",
+          "url": "https://www.meiguodizhi.com/",
+          "description": "美国地址生成器",
+          "icon": "/sitelogo/www.meiguodizhi.com.ico"
+        },
+        {
+          "id": "site-1753711394421",
+          "name": "SMS",
+          "url": "https://receive-sms-free.cc/",
+          "description": "免费接码",
+          "icon": "/sitelogo/receive-sms-free.cc.ico"
+        },
+        {
+          "id": "site-1753711463980",
+          "name": "指定地址",
+          "url": "https://121415.xyz/",
+          "description": "自选选项生成地址"
+        }
+      ]
     },
     {
       "id": "finance",
