@@ -14,20 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "site-1753711924496",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com/",
-          "description": "国内站点",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "site-1753711962766",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com/",
@@ -35,11 +21,25 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
+          "id": "site-1753711924496",
+          "name": "腾讯云",
+          "url": "https://cloud.tencent.com/",
+          "description": "国内站点",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
           "id": "site-1753711878324",
           "name": "腾讯云国际站",
           "url": "https://tencentcloud.com/",
           "description": "三个eo免费版",
           "icon": "/sitelogo/tencentcloud.com.ico"
+        },
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -55,6 +55,13 @@ export const mockData = {
           "url": "https://66.088878.xyz",
           "description": "导航主页",
           "icon": "https://66.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679679528",
+          "name": "博客-Rin",
+          "url": "https://8.088878.xyz",
+          "description": "R2支持",
+          "icon": "https://png.088878.xyz/是小奈啊.jpg"
         },
         {
           "id": "site-1753679738123",
@@ -76,13 +83,6 @@ export const mockData = {
           "url": "https://mtv.088878.xyz",
           "description": "Moon TV",
           "icon": "https://mtv.088878.xyz/favicon.ico"
-        },
-        {
-          "id": "site-1753679679528",
-          "name": "博客-Rin",
-          "url": "https://8.088878.xyz",
-          "description": "R2支持",
-          "icon": "https://png.088878.xyz/是小奈啊.jpg"
         },
         {
           "id": "site-1753679887006",
@@ -239,10 +239,24 @@ export const mockData = {
     },
     {
       "id": "design",
-      "name": "设计工具",
+      "name": "设计工具-CF",
       "icon": "🎨",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753748901452",
+          "name": "B2 存储桶",
+          "url": "https://backclaze.com",
+          "description": "图床容器"
+        },
+        {
+          "id": "site-1753748936143",
+          "name": "评论区",
+          "url": "https://console.leancloud.app",
+          "description": "海外评论区平台",
+          "icon": "/sitelogo/console.leancloud.app.ico"
+        }
+      ]
     },
     {
       "id": "learning",
@@ -313,7 +327,7 @@ export const mockData = {
     {
       "id": "category-1753679344910",
       "icon": "🔍",
-      "name": "未分类",
+      "name": "域名管理",
       "order": 12,
       "sites": [
         {
@@ -321,6 +335,25 @@ export const mockData = {
           "name": "个人网盘",
           "url": "https://app.filen.io/#/drive/2364a283-795e-433f-9149-dd82884da46c",
           "description": "无限制网盘 50G"
+        },
+        {
+          "id": "site-1753749045485",
+          "name": "Spaceship",
+          "url": "https://spaceship.com",
+          "description": "主域名平台",
+          "icon": "/sitelogo/spaceship.com.ico"
+        },
+        {
+          "id": "site-1753749084789",
+          "name": "edu",
+          "url": "https://regdm.edu.deal",
+          "description": "edu域名"
+        },
+        {
+          "id": "site-1753749123589",
+          "name": "anai.tech",
+          "url": "https://controlpanel.tech/servlet/ViewDomainServlet?orderid=121187797&referrerkey=elhFMTJRb1pGbDFNV0p6VEhlYVhtV1orTkQ0SnRRVTJOa0F1blh1M1A2NFdSZzBvQU5nRWJ3PT0=#domorder",
+          "description": "年抛域名"
         }
       ]
     },
@@ -362,6 +395,18 @@ export const mockData = {
           "name": "CF-plus",
           "url": "https://blog.661212.xyz",
           "description": "搭建CF-Plus完全教程"
+        },
+        {
+          "id": "site-1753749193180",
+          "name": "CF项目合集",
+          "url": "https://cloudflare.chuhai.tools",
+          "description": "cloudflare项目合集"
+        },
+        {
+          "id": "site-1753749233465",
+          "name": "域名托管",
+          "url": "https://blog.nbvil.com",
+          "description": "域名托管教程，易被墙"
         }
       ]
     }
