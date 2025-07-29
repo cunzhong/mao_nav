@@ -55,7 +55,7 @@
       <!-- 左侧边栏底部信息 -->
       <div class="sidebar-footer">
         <a
-          href="https://github.com/maodeyu180/mao_nav"
+          href="https://github.com/cunzhong/mao_nav"
           target="_blank"
           rel="noopener noreferrer"
           class="github-link"
@@ -182,7 +182,7 @@
 
               <div class="footer-links">
                 <a
-                  href="https://github.com/maodeyu180/mao_nav"
+                  href="https://github.com/cunzhong/mao_nav"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="footer-link"
