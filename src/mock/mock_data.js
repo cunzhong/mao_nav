@@ -14,6 +14,13 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
+          "id": "site-1754270972517",
+          "name": "MJJ社区",
+          "url": "https://mjjbox.com/",
+          "description": "新晋社区",
+          "icon": "/sitelogo/mjjbox.com.ico"
+        },
+        {
           "id": "site-1753711962766",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com/",
@@ -234,6 +241,13 @@ export const mockData = {
           "url": "https://free8.net",
           "description": "无法搜索",
           "icon": "/sitelogo/free8.net.ico"
+        },
+        {
+          "id": "site-1754271032114",
+          "name": "MJJ社区",
+          "url": "https://mjjbox.com/",
+          "description": "新晋社区",
+          "icon": "/sitelogo/mjjbox.com.ico"
         }
       ]
     },
