@@ -239,7 +239,7 @@ export const mockData = {
     },
     {
       "id": "design",
-      "name": "设计工具-CF",
+      "name": "站长工具",
       "icon": "🎨",
       "order": 6,
       "sites": [
@@ -407,6 +407,21 @@ export const mockData = {
           "name": "域名托管",
           "url": "https://blog.nbvil.com",
           "description": "域名托管教程，易被墙"
+        }
+      ]
+    },
+    {
+      "id": "category-1754267871761",
+      "icon": "👥",
+      "name": "公众号",
+      "order": 12,
+      "sites": [
+        {
+          "id": "site-1754267936080",
+          "name": "微信公众平台",
+          "url": "https://mp.weixin.qq.com",
+          "description": "公众号",
+          "icon": "/sitelogo/mp.weixin.qq.com.ico"
         }
       ]
     }
