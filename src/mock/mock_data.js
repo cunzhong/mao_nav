@@ -193,18 +193,11 @@ export const mockData = {
       "order": 4,
       "sites": [
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "site-1753680146382",
           "name": "Mail send",
           "url": "https://resend.com",
           "description": "Mail发送工具，仅限878",
-          "icon": "/sitelogo/resend.com.ico"
+          "icon": ""
         }
       ]
     },
@@ -229,25 +222,25 @@ export const mockData = {
           "icon": "/sitelogo/www.52pojie.cn.ico"
         },
         {
-          "id": "site-1753680038873",
-          "name": "奶昔",
-          "url": "https://naixi.net",
-          "description": "小论坛",
-          "icon": "/sitelogo/naixi.net.ico"
+          "id": "site-1754271032114",
+          "name": "MJJ社区",
+          "url": "https://mjjbox.com/",
+          "description": "新晋社区",
+          "icon": "/sitelogo/mjjbox.com.ico"
         },
         {
           "id": "site-1753680059016",
           "name": "免费吧",
           "url": "https://free8.net",
           "description": "无法搜索",
-          "icon": "/sitelogo/free8.net.ico"
+          "icon": ""
         },
         {
-          "id": "site-1754271032114",
-          "name": "MJJ社区",
-          "url": "https://mjjbox.com/",
-          "description": "新晋社区",
-          "icon": "/sitelogo/mjjbox.com.ico"
+          "id": "site-1753680038873",
+          "name": "奶昔",
+          "url": "https://naixi.net",
+          "description": "小论坛",
+          "icon": ""
         }
       ]
     },
@@ -268,7 +261,7 @@ export const mockData = {
           "name": "评论区",
           "url": "https://console.leancloud.app",
           "description": "海外评论区平台",
-          "icon": "/sitelogo/console.leancloud.app.ico"
+          "icon": ""
         }
       ]
     },
@@ -312,7 +305,7 @@ export const mockData = {
           "name": "eo优选节点",
           "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
           "description": "自动获取最新优选节点",
-          "icon": "/sitelogo/www.wetest.vip.ico"
+          "icon": ""
         }
       ]
     },
