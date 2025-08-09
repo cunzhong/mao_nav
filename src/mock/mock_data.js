@@ -79,16 +79,9 @@ export const mockData = {
         {
           "id": "site-1753679738123",
           "name": "CF-Blog",
-          "url": "https://0.088878.xyz",
-          "description": "EO加速站点，缓存issue",
-          "icon": "https://cf.088878.xyz/favicon.ico"
-        },
-        {
-          "id": "site-1753679793980",
-          "name": "Mail",
-          "url": "https://mail.088878.xyz",
-          "description": "Moemail 可收发邮件",
-          "icon": "https://mail.088878.xyz/favicon.ico"
+          "url": "https://ff.088878.xyz",
+          "description": "未加速站点",
+          "icon": ""
         },
         {
           "id": "site-1753679919407",
@@ -103,6 +96,13 @@ export const mockData = {
           "url": "https://ltv.088878.xyz",
           "description": "Libre TV",
           "icon": "https://png.088878.xyz/小艺_1750401668040.jpg"
+        },
+        {
+          "id": "site-1753679793980",
+          "name": "Mail",
+          "url": "https://mail.088878.xyz",
+          "description": "Moemail 可收发邮件",
+          "icon": "https://mail.088878.xyz/favicon.ico"
         }
       ]
     },
