@@ -84,13 +84,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1753679919407",
-          "name": "MTV",
-          "url": "https://mtv.088878.xyz",
-          "description": "Moon TV",
-          "icon": "https://mtv.088878.xyz/favicon.ico"
-        },
-        {
           "id": "site-1753679887006",
           "name": "LTV",
           "url": "https://ltv.088878.xyz",
@@ -103,6 +96,13 @@ export const mockData = {
           "url": "https://mail.088878.xyz",
           "description": "Moemail 可收发邮件",
           "icon": "https://mail.088878.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1753679919407",
+          "name": "MTV",
+          "url": "https://mtv.088878.xyz/login",
+          "description": "Moon TV",
+          "icon": "https://mtv.088878.xyz/favicon.ico"
         }
       ]
     },
