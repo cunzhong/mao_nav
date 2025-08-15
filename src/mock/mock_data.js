@@ -100,9 +100,8 @@ export const mockData = {
         {
           "id": "site-1753679919407",
           "name": "MTV",
-          "url": "https://mtv.088878.xyz/login",
-          "description": "Moon TV",
-          "icon": "https://mtv.088878.xyz/favicon.ico"
+          "url": "https://moon.088878.xyz",
+          "description": "Moon TV"
         }
       ]
     },
