@@ -60,7 +60,8 @@ export const mockData = {
           "id": "site-1754629653284",
           "name": "Home",
           "url": "https://www.088878.xyz",
-          "description": "个人主页"
+          "description": "个人主页",
+          "icon": "fab fa-youtube"
         },
         {
           "id": "site-1753679959968",
