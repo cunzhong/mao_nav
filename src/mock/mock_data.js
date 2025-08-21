@@ -189,6 +189,12 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1755743497804",
+          "name": "HUBU",
+          "url": "https://h102.hubuhost.com",
+          "description": "德国免费60G vps"
         }
       ]
     },
