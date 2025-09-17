@@ -272,7 +272,7 @@ export const mockData = {
         {
           "id": "site-1753748901452",
           "name": "B2 存储桶",
-          "url": "https://backclaze.com",
+          "url": "https://backblaze.com",
           "description": "图床容器"
         }
       ]
