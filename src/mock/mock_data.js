@@ -14,6 +14,12 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
+          "id": "site-1758539073527",
+          "name": "IDC",
+          "url": "https://idcflare.com/",
+          "description": "IDC元老"
+        },
+        {
           "id": "site-1754270972517",
           "name": "MJJ社区",
           "url": "https://mjjbox.com/",
@@ -61,7 +67,7 @@ export const mockData = {
           "name": "Home",
           "url": "https://www.088878.xyz",
           "description": "个人主页",
-          "icon": "fab fa-youtube"
+          "icon": "https://cl.088878.xyz/file/1757898056348_Nai.jpg"
         },
         {
           "id": "site-1753679959968",
@@ -71,38 +77,37 @@ export const mockData = {
           "icon": "https://66.088878.xyz/favicon.ico"
         },
         {
+          "id": "site-1753679793980",
+          "name": "Mail",
+          "url": "https://mail.088878.xyz",
+          "description": "Moemail 可收发邮件",
+          "icon": "https://mail.088878.xyz/favicon.ico"
+        },
+        {
           "id": "site-1753679679528",
           "name": "博客-Rin",
           "url": "https://8.088878.xyz",
           "description": "R2支持",
-          "icon": "https://png.088878.xyz/是小奈啊.jpg"
+          "icon": "https://cl.088878.xyz/file/1757898058752_Naispace-y.png"
         },
         {
           "id": "site-1753679738123",
           "name": "CF-Blog",
           "url": "https://ff.088878.xyz",
           "description": "未加速站点",
-          "icon": ""
+          "icon": "https://cl.088878.xyz/file/1757898066293_Naispace-w.png"
         },
         {
           "id": "site-1753679887006",
           "name": "LTV",
           "url": "https://ltv.088878.xyz",
-          "description": "Libre TV",
-          "icon": "https://png.088878.xyz/小艺_1750401668040.jpg"
+          "description": "Libre TV"
         },
         {
           "id": "site-1753679919407",
           "name": "MTV",
           "url": "https://mtv.088878.xyz",
           "description": "Moon TV"
-        },
-        {
-          "id": "site-1753679793980",
-          "name": "Mail",
-          "url": "https://mail.088878.xyz",
-          "description": "Moemail 可收发邮件",
-          "icon": "https://mail.088878.xyz/favicon.ico"
         }
       ]
     },
