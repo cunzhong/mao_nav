@@ -118,6 +118,13 @@ export const mockData = {
           "url": "https://mtv.088878.xyz",
           "description": "Moon TV",
           "icon": "https://icon.bqb.cool/?url=mtv.088878.xyz"
+        },
+        {
+          "id": "site-1758867818122",
+          "name": "OTV",
+          "url": "https://otv.088878.xyz",
+          "description": "otv",
+          "icon": "https://icon.bqb.cool/?url=otv.088878.xyz"
         }
       ]
     },
