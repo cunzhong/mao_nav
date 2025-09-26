@@ -286,6 +286,13 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
+          "id": "site-1758870451754",
+          "name": "XingPing",
+          "url": "https://xingpingcn.top/",
+          "description": "加速",
+          "icon": "https://icon.bqb.cool/?url=xingpingcn.top/"
+        },
+        {
           "id": "site-1753748936143",
           "name": "评论区",
           "url": "https://console.leancloud.app",
