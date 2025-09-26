@@ -73,8 +73,8 @@ export const mockData = {
         {
           "id": "site-1753679959968",
           "name": "66 Nav",
-          "url": "https://66.x.088828.xyz",
-          "description": "导航主页\n备用：https://66.088878.xyz/",
+          "url": "https://66.088878.xyz",
+          "description": "导航主页",
           "icon": "https://66.088878.xyz/favicon.ico"
         },
         {
