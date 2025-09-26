@@ -16,9 +16,8 @@ export const mockData = {
         {
           "id": "site-1758539073527",
           "name": "IDC",
-          "url": "https://idcflare.com/",
+          "url": "https://icon.bqb.cool/?url=idcflare.com/",
           "description": "IDC元老"
-          "icon": ""
         },
         {
           "id": "site-1754270972517",
@@ -103,14 +102,12 @@ export const mockData = {
           "name": "LTV",
           "url": "https://ltv.088878.xyz",
           "description": "Libre TV"
-          "icon": ""
         },
         {
           "id": "site-1753679919407",
           "name": "MTV",
           "url": "https://mtv.088878.xyz",
           "description": "Moon TV"
-          "icon": ""
         }
       ]
     },
@@ -203,7 +200,6 @@ export const mockData = {
           "name": "HUBU",
           "url": "https://h102.hubuhost.com",
           "description": "德国免费60G vps"
-          "icon": ""
         }
       ]
     },
@@ -283,7 +279,6 @@ export const mockData = {
           "name": "B2 存储桶",
           "url": "https://backblaze.com",
           "description": "图床容器"
-          "icon": ""
         }
       ]
     },
@@ -371,21 +366,18 @@ export const mockData = {
           "name": "edu",
           "url": "https://regdm.edu.deal",
           "description": "edu域名"
-          "icon": ""
         },
         {
           "id": "site-1753749123589",
           "name": "anai.tech",
           "url": "https://controlpanel.tech/servlet/ViewDomainServlet?orderid=121187797&referrerkey=elhFMTJRb1pGbDFNV0p6VEhlYVhtV1orTkQ0SnRRVTJOa0F1blh1M1A2NFdSZzBvQU5nRWJ3PT0=#domorder",
           "description": "年抛域名"
-          "icon": ""
         },
         {
           "id": "site-1753679522946",
           "name": "个人网盘",
           "url": "https://app.filen.io/#/drive/2364a283-795e-433f-9149-dd82884da46c",
           "description": "无限制网盘 50G"
-          "icon": ""
         }
       ]
     },
@@ -407,28 +399,24 @@ export const mockData = {
           "name": "二叉树树",
           "url": "https://afo.im",
           "description": "eo相关教程"
-          "icon": ""
         },
         {
           "id": "site-1753680293682",
           "name": "CF-plus",
           "url": "https://blog.661212.xyz",
           "description": "搭建CF-Plus完全教程"
-          "icon": ""
         },
         {
           "id": "site-1753749233465",
           "name": "域名托管",
           "url": "https://blog.nbvil.com",
           "description": "域名托管教程，易被墙"
-          "icon": ""
         },
         {
           "id": "site-1754534830185",
           "name": "不知名",
           "url": "https://blog.333375.xyz/",
           "description": "介绍cf 加速优选"
-          "icon": ""
         },
         {
           "id": "site-1753680349338",
@@ -449,7 +437,6 @@ export const mockData = {
           "name": "CF项目合集",
           "url": "https://cloudflare.chuhai.tools",
           "description": "cloudflare项目合集"
-          "icon": ""
         }
       ]
     },
