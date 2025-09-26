@@ -16,8 +16,9 @@ export const mockData = {
         {
           "id": "site-1758539073527",
           "name": "IDC",
-          "url": "https://icon.bqb.cool/?url=idcflare.com/",
-          "description": "IDC元老"
+          "url": "https://idcflare.com/",
+          "description": "IDC元老",
+          "icon": "https://icon.bqb.cool/?url=idcflare.com/"
         },
         {
           "id": "site-1754270972517",
@@ -101,13 +102,15 @@ export const mockData = {
           "id": "site-1753679887006",
           "name": "LTV",
           "url": "https://ltv.088878.xyz",
-          "description": "Libre TV"
+          "description": "Libre TV",
+          "icon": "https://icon.bqb.cool/?url=ltv.088878.xyz"
         },
         {
           "id": "site-1753679919407",
           "name": "MTV",
           "url": "https://mtv.088878.xyz",
-          "description": "Moon TV"
+          "description": "Moon TV",
+          "icon": "https://icon.bqb.cool/?url=mtv.088878.xyz"
         }
       ]
     },
@@ -199,7 +202,8 @@ export const mockData = {
           "id": "site-1755743497804",
           "name": "HUBU",
           "url": "https://h102.hubuhost.com",
-          "description": "德国免费60G vps"
+          "description": "德国免费60G vps",
+          "icon": "https://icon.bqb.cool/?url=h102.hubuhost.com"
         }
       ]
     },
@@ -214,7 +218,7 @@ export const mockData = {
           "name": "Mail send",
           "url": "https://resend.com",
           "description": "Mail发送工具，仅限878",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=resend.com"
         }
       ]
     },
@@ -250,14 +254,14 @@ export const mockData = {
           "name": "免费吧",
           "url": "https://free8.net",
           "description": "无法搜索",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=free8.net"
         },
         {
           "id": "site-1753680038873",
           "name": "奶昔",
           "url": "https://naixi.net",
           "description": "小论坛",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=naixi.net"
         }
       ]
     },
@@ -272,13 +276,14 @@ export const mockData = {
           "name": "评论区",
           "url": "https://console.leancloud.app",
           "description": "海外评论区平台",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=console.leancloud.app"
         },
         {
           "id": "site-1753748901452",
           "name": "B2 存储桶",
           "url": "https://backblaze.com",
-          "description": "图床容器"
+          "description": "图床容器",
+          "icon": "https://icon.bqb.cool/?url=backblaze.com"
         }
       ]
     },
@@ -322,7 +327,7 @@ export const mockData = {
           "name": "eo优选节点",
           "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
           "description": "自动获取最新优选节点",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=www.wetest.vip/page/edgeone/address_v4.html"
         }
       ]
     },
@@ -365,19 +370,22 @@ export const mockData = {
           "id": "site-1753749084789",
           "name": "edu",
           "url": "https://regdm.edu.deal",
-          "description": "edu域名"
-        },
-        {
-          "id": "site-1753749123589",
-          "name": "anai.tech",
-          "url": "https://controlpanel.tech/servlet/ViewDomainServlet?orderid=121187797&referrerkey=elhFMTJRb1pGbDFNV0p6VEhlYVhtV1orTkQ0SnRRVTJOa0F1blh1M1A2NFdSZzBvQU5nRWJ3PT0=#domorder",
-          "description": "年抛域名"
+          "description": "edu域名",
+          "icon": "https://icon.bqb.cool/?url=regdm.edu.deal"
         },
         {
           "id": "site-1753679522946",
           "name": "个人网盘",
           "url": "https://app.filen.io/#/drive/2364a283-795e-433f-9149-dd82884da46c",
-          "description": "无限制网盘 50G"
+          "description": "无限制网盘 50G",
+          "icon": "https://icon.bqb.cool/?url=app.filen.io"
+        },
+        {
+          "id": "site-1753749123589",
+          "name": "anai.tech",
+          "url": "https://controlpanel.tech/servlet/ViewDomainServlet?orderid=121187797&referrerkey=elhFMTJRb1pGbDFNV0p6VEhlYVhtV1orTkQ0SnRRVTJOa0F1blh1M1A2NFdSZzBvQU5nRWJ3PT0=#domorder",
+          "description": "年抛域名",
+          "icon": "https://icon.bqb.cool/?url=controlpanel.tech"
         }
       ]
     },
@@ -398,45 +406,50 @@ export const mockData = {
           "id": "site-1753680257539",
           "name": "二叉树树",
           "url": "https://afo.im",
-          "description": "eo相关教程"
+          "description": "eo相关教程",
+          "icon": "https://icon.bqb.cool/?url=afo.im"
         },
         {
           "id": "site-1753680293682",
           "name": "CF-plus",
           "url": "https://blog.661212.xyz",
-          "description": "搭建CF-Plus完全教程"
+          "description": "搭建CF-Plus完全教程",
+          "icon": "https://icon.bqb.cool/?url=blog.661212.xyz"
         },
         {
           "id": "site-1753749233465",
           "name": "域名托管",
           "url": "https://blog.nbvil.com",
-          "description": "域名托管教程，易被墙"
+          "description": "域名托管教程，易被墙",
+          "icon": "https://icon.bqb.cool/?url=blog.nbvil.com"
         },
         {
           "id": "site-1754534830185",
           "name": "不知名",
           "url": "https://blog.333375.xyz/",
-          "description": "介绍cf 加速优选"
+          "description": "介绍cf 加速优选",
+          "icon": "https://icon.bqb.cool/?url=blog.333375.xyz/"
         },
         {
           "id": "site-1753680349338",
           "name": "零度博客",
           "url": "https://freedidi.com",
           "description": "海外博主",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=freedidi.com"
         },
         {
           "id": "site-1753680323903",
           "name": "周润发博客",
           "url": "https://blog.zrf.me",
           "description": "搭建加速等工具",
-          "icon": ""
+          "icon": "https://icon.bqb.cool/?url=blog.zrf.me"
         },
         {
           "id": "site-1753749193180",
           "name": "CF项目合集",
           "url": "https://cloudflare.chuhai.tools",
-          "description": "cloudflare项目合集"
+          "description": "cloudflare项目合集",
+          "icon": "https://icon.bqb.cool/?url=cloudflare.chuhai.tools"
         }
       ]
     },
