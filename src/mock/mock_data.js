@@ -73,36 +73,15 @@ export const mockData = {
         {
           "id": "site-1753679959968",
           "name": "66 Nav",
-          "url": "https://66.088878.xyz",
-          "description": "导航主页",
+          "url": "https://66.x.088828.xyz",
+          "description": "导航主页\n备用：https://66.088878.xyz/",
           "icon": "https://66.088878.xyz/favicon.ico"
-        },
-        {
-          "id": "site-1753679793980",
-          "name": "Mail",
-          "url": "https://mail.088878.xyz",
-          "description": "Moemail 可收发邮件",
-          "icon": "https://mail.088878.xyz/favicon.ico"
-        },
-        {
-          "id": "site-1758875627963",
-          "name": "*IMG-Nai*",
-          "url": "https://img.anai.tech",
-          "description": "加速-可更换cl",
-          "icon": "https://icon.bqb.cool/?url=img.anai.tech"
-        },
-        {
-          "id": "site-1758867743423",
-          "name": "IMG-Nai",
-          "url": "https://cl.088878.xyz",
-          "description": "个人图床",
-          "icon": "https://icon.bqb.cool/?url=cl.088878.xyz"
         },
         {
           "id": "site-1753679679528",
           "name": "博客-Rin",
-          "url": "https://8.088878.xyz",
-          "description": "R2支持",
+          "url": "https://rin.x.088828.xyz",
+          "description": "R2支持\n备用：https://8.088878.xyz/",
           "icon": "https://cl.088878.xyz/file/1757898058752_Naispace-y.png"
         },
         {
@@ -113,24 +92,38 @@ export const mockData = {
           "icon": "https://cl.088878.xyz/file/1757898066293_Naispace-w.png"
         },
         {
+          "id": "site-1753679793980",
+          "name": "Mail",
+          "url": "https://m.088878.xyz",
+          "description": "Moemail 可收发邮件",
+          "icon": "https://icon.bqb.cool/?url=m.088878.xyz"
+        },
+        {
+          "id": "site-1758867743423",
+          "name": "IMG-Nai",
+          "url": "https://cl.x.088828.xyz",
+          "description": "个人图床\n备用：https://cl.088878.xyz/",
+          "icon": "https://icon.bqb.cool/?url=cl.088878.xyz"
+        },
+        {
           "id": "site-1753679887006",
           "name": "LTV",
-          "url": "https://ltv.088878.xyz",
-          "description": "Libre TV",
+          "url": "https://ltv.x.088828.xyz",
+          "description": "Libre TV\n备用：https://ltv.088878.xyz",
           "icon": "https://icon.bqb.cool/?url=ltv.088878.xyz"
         },
         {
           "id": "site-1753679919407",
           "name": "MTV",
-          "url": "https://mtv.088878.xyz",
-          "description": "Moon TV",
+          "url": "https://mtv.x.088828.xyz",
+          "description": "Moon TV\n备用：https://mtv.088878.xyz",
           "icon": "https://icon.bqb.cool/?url=mtv.088878.xyz"
         },
         {
           "id": "site-1758867818122",
           "name": "OTV",
-          "url": "https://otv.088878.xyz",
-          "description": "otv",
+          "url": "https://otv.x.088828.xyz",
+          "description": "otv\n备用：https://otv.088878.xyz/",
           "icon": "https://icon.bqb.cool/?url=otv.088878.xyz"
         }
       ]
