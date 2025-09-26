@@ -85,6 +85,13 @@ export const mockData = {
           "icon": "https://mail.088878.xyz/favicon.ico"
         },
         {
+          "id": "site-1758875627963",
+          "name": "*IMG-Nai*",
+          "url": "https://img.anai.tech",
+          "description": "加速-可更换cl",
+          "icon": "https://icon.bqb.cool/?url=img.anai.tech"
+        },
+        {
           "id": "site-1758867743423",
           "name": "IMG-Nai",
           "url": "https://cl.088878.xyz",
