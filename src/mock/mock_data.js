@@ -164,6 +164,20 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
+          "id": "site-1759054625846",
+          "name": "Netlify",
+          "url": "https://app.netlify.com",
+          "description": "静态网站部署",
+          "icon": "https://icon.bqb.cool/?url=app.netlify.com"
+        },
+        {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
           "id": "tencent-cloud",
           "name": "腾讯云",
           "url": "https://cloud.tencent.com",
@@ -176,13 +190,6 @@ export const mockData = {
           "url": "https://tencentcloud.com",
           "description": "国际站",
           "icon": "/sitelogo/tencentcloud.com.ico"
-        },
-        {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
         },
         {
           "id": "aws",
