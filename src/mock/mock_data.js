@@ -21,18 +21,18 @@ export const mockData = {
           "icon": "https://icon.bqb.cool/?url=idcflare.com/"
         },
         {
-          "id": "site-1754270972517",
-          "name": "MJJ社区",
-          "url": "https://mjjbox.com/",
-          "description": "新晋社区",
-          "icon": "/sitelogo/mjjbox.com.ico"
-        },
-        {
           "id": "site-1753711962766",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com/",
           "description": "全国CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1754270972517",
+          "name": "MJJ社区",
+          "url": "https://mjjbox.com/",
+          "description": "新晋社区",
+          "icon": "/sitelogo/mjjbox.com.ico"
         },
         {
           "id": "site-1753711924496",
@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1759055091036",
+          "name": "netlify",
+          "url": "https://app.netlify.com/",
+          "description": "静态部署",
+          "icon": "https://icon.bqb.cool/?url=app.netlify.com"
         }
       ]
     },
