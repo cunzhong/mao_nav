@@ -240,15 +240,7 @@ export const mockData = {
       "name": "开发工具",
       "icon": "🛠️",
       "order": 4,
-      "sites": [
-        {
-          "id": "site-1753680146382",
-          "name": "Mail send",
-          "url": "https://resend.com",
-          "description": "Mail发送工具，仅限878",
-          "icon": "https://icon.bqb.cool/?url=resend.com"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "community",
@@ -300,11 +292,11 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "site-1758870451754",
-          "name": "XingPing",
-          "url": "https://xingpingcn.top/",
-          "description": "加速",
-          "icon": "https://icon.bqb.cool/?url=xingpingcn.top/"
+          "id": "site-1753680146382",
+          "name": "Mail send",
+          "url": "https://resend.com",
+          "description": "Mail发送工具，仅限878",
+          "icon": "https://icon.bqb.cool/?url=resend.com"
         },
         {
           "id": "site-1753748936143",
@@ -351,11 +343,11 @@ export const mockData = {
           "icon": "/sitelogo/www.itdog.cn.ico"
         },
         {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
+          "id": "site-1758870451754",
+          "name": "XingPing",
+          "url": "https://xingpingcn.top/",
+          "description": "加速",
+          "icon": "https://icon.bqb.cool/?url=xingpingcn.top/"
         },
         {
           "id": "site-1753680198326",
@@ -363,6 +355,13 @@ export const mockData = {
           "url": "https://www.wetest.vip/page/edgeone/address_v4.html",
           "description": "自动获取最新优选节点",
           "icon": "https://icon.bqb.cool/?url=www.wetest.vip/page/edgeone/address_v4.html"
+        },
+        {
+          "id": "tinypng",
+          "name": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "图片压缩工具",
+          "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
     },
