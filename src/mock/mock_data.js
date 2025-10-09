@@ -115,23 +115,23 @@ export const mockData = {
         {
           "id": "site-1753679887006",
           "name": "LTV",
-          "url": "https://ltv.x.088828.xyz",
+          "url": "https://ltv-n.netlify.app",
           "description": "备用：https://ltv.088878.xyz",
           "icon": "https://icon.bqb.cool/?url=ltv.088878.xyz"
         },
         {
-          "id": "site-1753679919407",
-          "name": "MTV",
-          "url": "https://mtv.x.088828.xyz",
-          "description": "备用：https://mtv.088878.xyz",
-          "icon": "https://icon.bqb.cool/?url=mtv.088878.xyz"
-        },
-        {
           "id": "site-1758867818122",
           "name": "OTV",
-          "url": "https://otv.x.088828.xyz",
+          "url": "https://otv-n.netlify.app",
           "description": "备用：https://otv.088878.xyz/",
           "icon": "https://icon.bqb.cool/?url=otv.088878.xyz"
+        },
+        {
+          "id": "site-1753679919407",
+          "name": "MTV",
+          "url": "https://mtv-n.netlify.app",
+          "description": "备用：https://mtv.088878.xyz",
+          "icon": "https://icon.bqb.cool/?url=mtv.088878.xyz"
         }
       ]
     },
