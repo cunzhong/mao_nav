@@ -9,15 +9,15 @@ export const mockData = {
         {
           "id": "site-1754629653284",
           "name": "Home页",
-          "url": "https://088878.xyz",
-          "description": "备用-www.088878.xyz",
-          "icon": "https://cl.088878.xyz/file/1757898056348_Nai.jpg"
+          "url": "https://www.088878.xyz",
+          "description": "备用：https://088878.xyz",
+          "icon": "https://icon.bqb.cool/?url=www.088878.xyz"
         },
         {
           "id": "site-1753679959968",
           "name": "66 Nav",
-          "url": "https://66.088878.xyz",
-          "description": "备用-nav.088878.xyz",
+          "url": "https://nav.088878.xyz",
+          "description": "备用-https://66.088878.xyz",
           "icon": "https://nav.088878.xyz/favicon.ico"
         },
         {
@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://rin.x.088828.xyz",
           "description": "备用：https://8.088878.xyz/",
           "icon": "https://cl.088878.xyz/file/1757898058752_Naispace-y.png"
+        },
+        {
+          "id": "site-1753679738123",
+          "name": "CF-Blog",
+          "url": "https://ff.088878.xyz",
+          "description": "未加速站点",
+          "icon": "https://cl.088878.xyz/file/1757898066293_Naispace-w.png"
         },
         {
           "id": "site-1753679793980",
@@ -42,32 +49,25 @@ export const mockData = {
           "icon": "https://icon.bqb.cool/?url=cl.088878.xyz"
         },
         {
-          "id": "site-1753679738123",
-          "name": "CF-Blog",
-          "url": "https://ff.088878.xyz",
-          "description": "未加速站点",
-          "icon": "https://cl.088878.xyz/file/1757898066293_Naispace-w.png"
-        },
-        {
           "id": "site-1753679887006",
           "name": "LTV",
-          "url": "https://lv.088878.xyz",
-          "description": "备用：https://ltv.088878.xyz",
+          "url": "https://ltv.088878.xyz",
+          "description": "备用：https://lv.088878.xyz",
           "icon": "https://icon.bqb.cool/?url=ltv.088878.xyz"
-        },
-        {
-          "id": "site-1758867818122",
-          "name": "OTV",
-          "url": "https://ov.088878.xyz/",
-          "description": "备用：https://otv.088878.xyz/",
-          "icon": "https://icon.bqb.cool/?url=otv.088878.xyz"
         },
         {
           "id": "site-1753679919407",
           "name": "MTV",
-          "url": "https://mv.088878.xyz",
-          "description": "备用：https://mtv.088878.xyz",
+          "url": "https://mtv.088878.xyz",
+          "description": "备用：https://mv.088878.xyz",
           "icon": "https://icon.bqb.cool/?url=mtv.088878.xyz"
+        },
+        {
+          "id": "site-1758867818122",
+          "name": "OTV",
+          "url": "https://otv.088878.xyz/",
+          "description": "备用：https://ov.088878.xyz/",
+          "icon": "https://icon.bqb.cool/?url=otv.088878.xyz"
         }
       ]
     },
