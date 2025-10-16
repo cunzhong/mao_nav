@@ -21,18 +21,18 @@ export const mockData = {
           "icon": "https://nav.088878.xyz/favicon.ico"
         },
         {
+          "id": "site-1753679738123",
+          "name": "CF-Blog",
+          "url": "https://blog.088878.xyz",
+          "description": "未加速站点",
+          "icon": "https://cl.088878.xyz/file/1757898066293_Naispace-w.png"
+        },
+        {
           "id": "site-1753679679528",
           "name": "博客-Rin",
           "url": "https://rin.x.088828.xyz",
           "description": "备用：https://8.088878.xyz/",
           "icon": "https://cl.088878.xyz/file/1757898058752_Naispace-y.png"
-        },
-        {
-          "id": "site-1753679738123",
-          "name": "CF-Blog",
-          "url": "https://ff.088878.xyz",
-          "description": "未加速站点",
-          "icon": "https://cl.088878.xyz/file/1757898066293_Naispace-w.png"
         },
         {
           "id": "site-1753679793980",
