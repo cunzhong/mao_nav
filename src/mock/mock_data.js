@@ -68,6 +68,20 @@ export const mockData = {
           "url": "https://otv.088878.xyz/",
           "description": "备用：https://ov.088878.xyz/",
           "icon": "https://icon.bqb.cool/?url=otv.088878.xyz"
+        },
+        {
+          "id": "site-1761898154308",
+          "name": "JTV",
+          "url": "https://jtv.088878.xyz",
+          "description": "",
+          "icon": "https://icon.bqb.cool/?url=jtv.088878.xyz"
+        },
+        {
+          "id": "site-1761898185478",
+          "name": "TW",
+          "url": "https://tw.088878.xyz",
+          "description": "",
+          "icon": "https://icon.bqb.cool/?url=tw.088878.xyz"
         }
       ]
     },
