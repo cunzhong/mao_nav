@@ -9,7 +9,7 @@ export const mockData = {
         {
           "id": "site-1754629653284",
           "name": "Home页",
-          "url": "https://www.088878.xyz",
+          "url": "https://088878.xyz",
           "description": "Web主页",
           "icon": "https://icon.bqb.cool/?url=www.088878.xyz"
         },
